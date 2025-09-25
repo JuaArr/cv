@@ -1,0 +1,225 @@
+cv:
+  name: Juan David Arroyo Lopez
+  location: Bogotá, D.C.
+  email: ce.juanarroyo@gmail.com
+  phone: +57-323-805-1132
+  social_networks:
+    - network: LinkedIn
+      username: juan-david-arroyo-lopez
+    - network: GitHub
+      username: juaarr
+  sections:
+    resumen:
+      - Estudiante de último año de Ingeniería Civil en la Universidad Nacional de Colombia, con 2 años y 5 meses de experiencia en investigación geotécnica centrada en la caracterización físico-mecánica de suelos y la modelación matemática. Como exbecario DAAD (cohorte 24/25), realicé un año de intercambio en el Karlsruher Institut für Technologie (KIT), en Alemania. Cuento con dominio en software de diseño de infraestructura, sistemas de información geográfica (SIG) y lenguajes de programación. Me destaco por mi compromiso, responsabilidad y alta capacidad de adaptación, habilidades clave que he demostrado en la participación de proyectos de investigación y extensión nacionales e internacionales.
+    educación:
+      - institution: Karlsruher Institut für Technologie
+        area: Ingeniería Civil
+        degree: BSc
+        start_date: 2024-10
+        end_date: 2025-09
+        location: Karlsruhe, Alemania
+        summary: Intercambio académico con énfasis en Geotecnia, Ingeniería Geológica, Hidrogeología y modelación basada en datos con Python
+      - institution: Universidad Nacional de Colombia
+        area: Ingeniería Civil
+        degree: BSc
+        start_date: 2020-03
+        end_date: present
+        location: Bogotá D.C., Colombia
+        summary: Enfoque en Geotecnia, Estructuras y Modelación
+        highlights:
+          - 'Nota: 4.7/5.0'
+    experiencia:
+      - company: Facultad de Ingeniería de la Universidad Nacional de Colombia
+        position: Estudiante auxiliar
+        start_date: 2025-09
+        end_date: present
+        location: Bogotá D.C., Colombia
+        highlights:
+          - Miembro de la coordinación del Seminario Permanente de la Facultad de Ingeniería con tema central sobre el impacto ambiental de los proyectos energéticos
+      - company: Institut für Bodenmechanik und Felsmechanik (IBF)
+        position: Pasante
+        start_date: 2025-04
+        end_date: 2025-08
+        location: Karlsruhe, Alemania
+        summary: Pasantía de investigación en el marco de la beca KOSPIE 24/25
+        highlights:
+          - Desarrollo de una herramienta con Python para la automatización en la elaboración de muestras de suelo mediante un Cobot
+          - Creación de manuales de uso para estudiantes y laboratoristas
+      - company: Laboratorio de Suelos de la Universidad Nacional de Colombia
+        position: Estudiante auxiliar
+        start_date: 2022-09
+        end_date: 2024-08
+        location: Bogotá D.C., Colombia
+        highlights:
+          - Apoyo en la preparación de propuestas y en la estructuración de proyectos de investigación en ingeniería civil, geotecnia y pavimentos
+          - Elaboración de estudios de suelo para la planificación y diseño estructural de 7 edificaciones
+          - Participación en evaluaciones técnicas para la construcción, refuerzo y restauración de edificios institucionales
+          - Investigación sobre aplicaciones geotécnicas de cenizas derivadas de la incineración de biosólidos, promoviendo prácticas sostenibles
+          - Desarrollo de ensayos en campo y laboratorio para análisis geotécnicos y estructurales
+    distinciones:
+      - name: Combined Study and Practice Stays for Engineers from Developing Countries (KOSPIE)
+        start_date: 2024-08
+        end_date: 2025-07
+        summary: Beca del DAAD para realizar un intercambio académico y prácticas en Alemania
+        highlights: 
+          - Selección a partir de convocatoria abierta en la Facultad de Ingeniería de la Sede Bogotá, a partir del promedio académico y el dominio de los idiomas inglés y alemán
+    competencias:
+      - label: Idiomas
+        details: 'Español (nativo), Inglés (fluido, IELTS Academic: B2), Alemán (fluido, TestDaF: B2)'
+      - label: Software
+        details: MS-Office, Python, Slide, MIDAS GTS-X, SAP2000, ETABS, HECRAS, EPANET, SWMM, AutoCAD, Civil 3D, QGIS
+      - label: Habilidades blandas
+        details: Proactividad, Comunicación efectiva, Adpatabilidad, Trabajo en equipo, Organización, Resolución de problemas
+    certificados:
+      - name: Lexium Cobot - EcoStruxure Cobot Expert Konfiguration
+        date: 2025-05
+      - name: II Foro Internacional de Riesgo y Prevención, Vulnerabilidad y Mejoramiento
+        date: 2023-09
+      - name: IV Curso Internacional de Exploración, Caracterización y Mejoramiento del Suelo
+        date: 2023-06
+    intereses personales / hobbys:
+      - label: Intereses
+        details: Ciencia, tecnología, programación, idiomas, viajes, culturas
+      - label: Hobbys
+        details: Cocinar, senderismo, escuchar música
+design:
+  theme: engineeringresumes
+  page:
+    size: us-letter
+    top_margin: 2cm
+    bottom_margin: 2cm
+    left_margin: 2cm
+    right_margin: 2cm
+    show_page_numbering: false
+    show_last_updated_date: true
+  colors:
+    text: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+  text:
+    font_family: XCharter
+    font_size: 10pt
+    leading: 0.6em
+    alignment: justified
+    date_and_location_column_alignment: right
+  links:
+    underline: true
+    use_external_link_icon: false
+  header:
+    name_font_family: XCharter
+    name_font_size: 25pt
+    name_bold: false
+    photo_width: 3.5cm
+    vertical_space_between_name_and_connections: 0.7cm
+    vertical_space_between_connections_and_first_section: 0.7cm
+    horizontal_space_between_connections: 0.5cm
+    connections_font_family: XCharter
+    separator_between_connections: '|'
+    use_icons_for_connections: false
+    alignment: center
+  section_titles:
+    type: with-parial-line
+    font_family: XCharter
+    font_size: 1.2em
+    bold: true
+    small_caps: false
+    line_thickness: 0.5pt
+    vertical_space_above: 0.55cm
+    vertical_space_below: 0.3cm
+    line_type: with-full-line
+  entries:
+    date_and_location_width: 4.15cm
+    left_and_right_margin: 0cm
+    horizontal_space_between_columns: 0.1cm
+    vertical_space_between_entries: 0.4cm
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: •
+    top_margin: 0.25cm
+    left_margin: 0cm
+    vertical_space_between_highlights: 0.19cm
+    horizontal_space_between_bullet_and_highlight: 0.3em
+    summary_left_margin: 0cm
+  entry_types:
+    one_line_entry:
+      template: '**LABEL:** DETAILS'
+    education_entry:
+      main_column_first_row_template: '**INSTITUTION**, DEGREE en AREA -- LOCATION'
+      degree_column_template:
+      degree_column_width: 1cm
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    normal_entry:
+      main_column_first_row_template: '**NAME** -- **LOCATION**'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    experience_entry:
+      main_column_first_row_template: '**POSITION**, COMPANY -- LOCATION'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    publication_entry:
+      main_column_first_row_template: '**TITLE**'
+      main_column_second_row_template: |-
+        AUTHORS
+        URL (JOURNAL)
+      main_column_second_row_without_journal_template: |-
+        AUTHORS
+        URL
+      main_column_second_row_without_url_template: |-
+        AUTHORS
+        JOURNAL
+      date_and_location_column_template: DATE
+locale:
+  language: es
+  phone_number_format: international
+  page_numbering_template: NAME - Página PAGE_NUMBER de TOTAL_PAGES
+  last_updated_date_template: Última actualización TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: mes
+  months: meses
+  year: año
+  years: años
+  present: presente
+  to: –
+  abbreviations_for_months:
+    - Ene
+    - Feb
+    - Mar
+    - Abr
+    - May
+    - Junio
+    - Julio
+    - Ago
+    - Sept
+    - Oct
+    - Nov
+    - Dic
+  full_names_of_months:
+    - Enero
+    - Febrero
+    - Marzo
+    - Abril
+    - Mayo
+    - Junio
+    - Julio
+    - Agosto
+    - Septiembre
+    - Octubre
+    - Noviembre
+    - Diciembre
+rendercv_settings:
+  date: '2025-09-24'
+  render_command:
+  bold_keywords: []

@@ -9,79 +9,79 @@ cv:
     - network: GitHub
       username: juaarr
   sections:
-    resumen:
-      - Estudiante de último año de Ingeniería Civil en la Universidad Nacional de Colombia, con 2 años y 5 meses de experiencia en investigación geotécnica centrada en la caracterización físico-mecánica de suelos y la modelación matemática. Como exbecario DAAD (cohorte 24/25), realicé un año de intercambio en el Karlsruher Institut für Technologie (KIT), en Alemania. Cuento con dominio en software de diseño de infraestructura, sistemas de información geográfica (SIG) y lenguajes de programación. Me destaco por mi compromiso, responsabilidad y alta capacidad de adaptación, habilidades clave que he demostrado en la participación de proyectos de investigación y extensión nacionales e internacionales.
-    educación:
-      - institution: Karlsruher Institut für Technologie
-        area: Ingeniería Civil
+    summary:
+      - Final-year Civil Engineering student at Universidad Nacional de Colombia, with over 2 years of experience in geotechnical research focused on physical-mechanical characterization of soils and mathematical modeling. As a former DAAD scholar (cohort 24/25), I completed a year-long exchange at Karlsruhe Institute of Technology (KIT) in Germany. I have proficiency in infrastructure design software, geographic information systems (GIS), and programming languages. I stand out for my commitment, responsibility, and high adaptability, key skills I have demonstrated in national and international research and extension projects.
+    education:
+      - institution: Karlsruhe Institute of Technology
+        area: Civil Engineering
         degree: BSc
         start_date: 2024-10
         end_date: 2025-09
-        location: Karlsruhe, Alemania
-        summary: Intercambio académico con énfasis en Geotecnia, Ingeniería Geológica, Hidrogeología y modelación basada en datos con Python
+        location: Karlsruhe, Germany
+        summary: Academic exchange with emphasis on Geotechnics, Geological Engineering, Hydrogeology, and data-driven modeling with Python
       - institution: Universidad Nacional de Colombia
-        area: Ingeniería Civil
+        area: Civil Engineering
         degree: BSc
         start_date: 2020-03
         end_date: present
         location: Bogotá D.C., Colombia
-        summary: Enfoque en Geotecnia, Estructuras y Modelación
+        summary: Focus on Geotechnics, Structures, and Modeling
         highlights:
-          - 'Nota: 4.7/5.0'
-    experiencia:
-      - company: Facultad de Ingeniería de la Universidad Nacional de Colombia
-        position: Estudiante auxiliar
+          - 'GPA: 4.7/5.0'
+    experience:
+      - company: Faculty of Engineering at Universidad Nacional de Colombia
+        position: Student Assistant
         start_date: 2025-09
         end_date: present
         location: Bogotá D.C., Colombia
         highlights:
-          - Miembro de la coordinación del Seminario Permanente de la Facultad de Ingeniería con tema central sobre el impacto ambiental de los proyectos energéticos
-      - company: Institut für Bodenmechanik und Felsmechanik (IBF)
-        position: Pasante
+          - Member of the coordination team for the Faculty of Engineering Permanent Seminar on the environmental impact of energy projects
+      - company: Institute for Soil Mechanics and Rock Mechanics (IBF)
+        position: Intern
         start_date: 2025-04
         end_date: 2025-08
-        location: Karlsruhe, Alemania
-        summary: Pasantía de investigación en el marco de la beca KOSPIE 24/25
+        location: Karlsruhe, Germany
+        summary: Research internship as part of the KOSPIE 24/25 scholarship
         highlights:
-          - Desarrollo de una herramienta con Python para la automatización en la elaboración de muestras de suelo mediante un Cobot
-          - Creación de manuales de uso para estudiantes y laboratoristas
-      - company: Laboratorio de Suelos de la Universidad Nacional de Colombia
-        position: Estudiante auxiliar
+          - Development of a Python tool for automation in soil sample preparation using a Cobot
+          - Creation of user manuals for students and laboratory technicians
+      - company: Soil Laboratory at Universidad Nacional de Colombia
+        position: Student Assistant
         start_date: 2022-09
         end_date: 2024-08
         location: Bogotá D.C., Colombia
         highlights:
-          - Apoyo en la preparación de propuestas y en la estructuración de proyectos de investigación en ingeniería civil, geotecnia y pavimentos
-          - Elaboración de estudios de suelo para la planificación y diseño estructural de 7 edificaciones
-          - Participación en evaluaciones técnicas para la construcción, refuerzo y restauración de edificios institucionales
-          - Investigación sobre aplicaciones geotécnicas de cenizas derivadas de la incineración de biosólidos, promoviendo prácticas sostenibles
-          - Desarrollo de ensayos en campo y laboratorio para análisis geotécnicos y estructurales
-    distinciones:
+          - Support in proposal preparation and structuring of research projects in civil engineering, geotechnics, and pavements
+          - Preparation of soil studies for structural planning and design of 7 buildings
+          - Participation in technical evaluations for construction, reinforcement, and restoration of institutional buildings
+          - Research on geotechnical applications of ash derived from biosolids incineration, promoting sustainable practices
+          - Development of field and laboratory tests for geotechnical and structural analysis
+    awards:
       - name: Combined Study and Practice Stays for Engineers from Developing Countries (KOSPIE)
         start_date: 2024-08
         end_date: 2025-07
-        summary: Beca del DAAD para realizar un intercambio académico y prácticas en Alemania
+        summary: DAAD scholarship for academic exchange and internship in Germany
         highlights: 
-          - Selección a partir de convocatoria abierta en la Facultad de Ingeniería de la Sede Bogotá, a partir del promedio académico y el dominio de los idiomas inglés y alemán
-    competencias:
-      - label: Idiomas
-        details: 'Español (nativo), Inglés (fluido, IELTS Academic: B2), Alemán (fluido, TestDaF: B2)'
+          - Selected through open call at the Faculty of Engineering in Bogotá, based on academic performance and proficiency in English and German
+    skills:
+      - label: Languages
+        details: 'Spanish (native), English (fluent, IELTS Academic: B2), German (fluent, TestDaF: B2)'
       - label: Software
         details: MS-Office, Python, Slide, MIDAS GTS-X, SAP2000, ETABS, HECRAS, EPANET, SWMM, AutoCAD, Civil 3D, QGIS
-      - label: Habilidades blandas
-        details: Proactividad, Comunicación efectiva, Adpatabilidad, Trabajo en equipo, Organización, Resolución de problemas
-    certificados:
-      - name: Lexium Cobot - EcoStruxure Cobot Expert Konfiguration
+      - label: Soft Skills
+        details: Proactivity, Effective Communication, Adaptability, Teamwork, Organization, Problem-Solving
+    certificates:
+      - name: Lexium Cobot - EcoStruxure Cobot Expert Configuration
         date: 2025-05
-      - name: II Foro Internacional de Riesgo y Prevención, Vulnerabilidad y Mejoramiento
+      - name: II International Forum on Risk and Prevention, Vulnerability and Improvement
         date: 2023-09
-      - name: IV Curso Internacional de Exploración, Caracterización y Mejoramiento del Suelo
+      - name: IV International Course on Soil Exploration, Characterization and Improvement
         date: 2023-06
-    intereses personales / hobbys:
-      - label: Intereses
-        details: Ciencia, tecnología, programación, idiomas, viajes, culturas
-      - label: Hobbys
-        details: Cocinar, senderismo, escuchar música
+    personal interests / hobbies:
+      - label: Interests
+        details: Science, technology, programming, languages, travel, cultures
+      - label: Hobbies
+        details: Cooking, hiking, listening to music
 design:
   theme: engineeringresumes
   page:
@@ -150,7 +150,7 @@ design:
     one_line_entry:
       template: '**LABEL:** DETAILS'
     education_entry:
-      main_column_first_row_template: '**INSTITUTION**, DEGREE en AREA -- LOCATION'
+      main_column_first_row_template: '**INSTITUTION**, DEGREE in AREA -- LOCATION'
       degree_column_template:
       degree_column_width: 1cm
       main_column_second_row_template: |-
@@ -182,44 +182,44 @@ design:
         JOURNAL
       date_and_location_column_template: DATE
 locale:
-  language: es
+  language: en
   phone_number_format: international
-  page_numbering_template: NAME - Página PAGE_NUMBER de TOTAL_PAGES
-  last_updated_date_template: Última actualización TODAY
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated TODAY
   date_template: MONTH_ABBREVIATION YEAR
-  month: mes
-  months: meses
-  year: año
-  years: años
-  present: presente
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
   to: –
   abbreviations_for_months:
-    - Ene
+    - Jan
     - Feb
     - Mar
-    - Abr
+    - Apr
     - May
-    - Junio
-    - Julio
-    - Ago
+    - June
+    - July
+    - Aug
     - Sept
     - Oct
     - Nov
-    - Dic
+    - Dec
   full_names_of_months:
-    - Enero
-    - Febrero
-    - Marzo
-    - Abril
-    - Mayo
-    - Junio
-    - Julio
-    - Agosto
-    - Septiembre
-    - Octubre
-    - Noviembre
-    - Diciembre
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
 rendercv_settings:
-  date: '2025-09-24'
+  date: '2025-10-02'
   render_command:
   bold_keywords: []

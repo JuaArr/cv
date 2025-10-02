@@ -465,7 +465,7 @@
 
 
 #one-col-entry(
-  content: [Estudiante de último año de Ingeniería Civil en la Universidad Nacional de Colombia, con 2 años y 5 meses de experiencia en investigación geotécnica centrada en la caracterización físico-mecánica de suelos y la modelación matemática. Como exbecario DAAD \(cohorte 24\/25\), realicé un año de intercambio en el Karlsruher Institut für Technologie \(KIT\), en Alemania. Cuento con dominio en software de diseño de infraestructura, sistemas de información geográfica \(SIG\) y lenguajes de programación. Me destaco por mi compromiso, responsabilidad y alta capacidad de adaptación, habilidades clave que he demostrado en la participación de proyectos de investigación y extensión nacionales e internacionales.]
+  content: [Estudiante de último año de Ingeniería Civil en la Universidad Nacional de Colombia, con más de 2 años de experiencia en investigación geotécnica centrada en la caracterización físico-mecánica de suelos y la modelación matemática. Como exbecario DAAD \(cohorte 24\/25\), realicé un año de intercambio en el Karlsruher Institut für Technologie \(KIT\), en Alemania. Cuento con dominio en software de diseño de infraestructura, sistemas de información geográfica \(SIG\) y lenguajes de programación. Me destaco por mi compromiso, responsabilidad y alta capacidad de adaptación, habilidades clave que he demostrado en la participación de proyectos de investigación y extensión nacionales e internacionales.]
 )
 
 

@@ -9,7 +9,7 @@
 
 # Summary
 
-Final-year Civil Engineering student at Universidad Nacional de Colombia, with over 2 years of experience in geotechnical research focused on physical-mechanical characterization of soils and mathematical modeling. As a former DAAD scholar (cohort 24/25), I completed a year-long exchange at Karlsruhe Institute of Technology (KIT) in Germany. I have proficiency in infrastructure design software, geographic information systems (GIS), and programming languages. I stand out for my commitment, responsibility, and high adaptability, key skills I have demonstrated in national and international research and extension projects.
+Civil Engineer from the Universidad Nacional de Colombia awaiting degree, with over 2 years of experience in geotechnical research focused on physical-mechanical characterization of soils and mathematical modeling. As a former DAAD scholar (cohort 24/25), I completed a year-long exchange at Karlsruhe Institute of Technology (KIT) in Germany. I have proficiency in infrastructure design software, geographic information systems (GIS), and programming languages. I stand out for my commitment, responsibility, and high adaptability, key skills I have demonstrated in national and international research and extension projects.
 
 # Education
 
@@ -20,7 +20,7 @@ Final-year Civil Engineering student at Universidad Nacional de Colombia, with o
 
 ## Universidad Nacional de Colombia, BSc in Civil Engineering
 
-- Mar 2020 – present
+- Mar 2020 – Dec 2025
 - Bogotá D.C., Colombia
 - GPA: 4.7/5.0
 
@@ -62,6 +62,10 @@ Final-year Civil Engineering student at Universidad Nacional de Colombia, with o
 - Software: MS-Office, Python, Slide, MIDAS GTS-X, SAP2000, ETABS, HECRAS, EPANET, SWMM, AutoCAD, Civil 3D, QGIS
 - Soft Skills: Proactivity, Effective Communication, Adaptability, Teamwork, Organization, Problem-Solving
 # Certificates
+
+## Consulting Bootcamp
+
+- Oct 2025
 
 ## Lexium Cobot - EcoStruxure Cobot Expert Configuration
 

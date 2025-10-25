@@ -465,7 +465,7 @@
 
 
 #one-col-entry(
-  content: [Final-year Civil Engineering student at Universidad Nacional de Colombia, with over 2 years of experience in geotechnical research focused on physical-mechanical characterization of soils and mathematical modeling. As a former DAAD scholar \(cohort 24\/25\), I completed a year-long exchange at Karlsruhe Institute of Technology \(KIT\) in Germany. I have proficiency in infrastructure design software, geographic information systems \(GIS\), and programming languages. I stand out for my commitment, responsibility, and high adaptability, key skills I have demonstrated in national and international research and extension projects.]
+  content: [Civil Engineer from the Universidad Nacional de Colombia awaiting degree, with over 2 years of experience in geotechnical research focused on physical-mechanical characterization of soils and mathematical modeling. As a former DAAD scholar \(cohort 24\/25\), I completed a year-long exchange at Karlsruhe Institute of Technology \(KIT\) in Germany. I have proficiency in infrastructure design software, geographic information systems \(GIS\), and programming languages. I stand out for my commitment, responsibility, and high adaptability, key skills I have demonstrated in national and international research and extension projects.]
 )
 
 
@@ -499,7 +499,7 @@
     #strong[Universidad Nacional de Colombia], BSc in Civil Engineering -- Bogotá D.C., Colombia
   ],
   right-content: [
-    Mar 2020 – present
+    Mar 2020 – Dec 2025
   ],
 )
 #block(
@@ -608,6 +608,21 @@
 == Certificates
 
 
+#two-col-entry(
+  left-content: [
+    #strong[Consulting Bootcamp] 
+  ],
+  right-content: [
+    Oct 2025
+  ],
+)
+#one-col-entry(
+  content: [
+    
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
     #strong[Lexium Cobot - EcoStruxure Cobot Expert Configuration] 

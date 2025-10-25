@@ -3,7 +3,7 @@
 
 #let name = "Juan David Arroyo Lopez"
 #let locale-catalog-page-numbering-style = context { "Juan David Arroyo Lopez - Página " + str(here().page()) + " de " + str(counter(page).final().first()) + "" }
-#let locale-catalog-last-updated-date-style = "Última actualización Sept 2025"
+#let locale-catalog-last-updated-date-style = "Última actualización Oct 2025"
 #let locale-catalog-language = "es"
 #let design-page-size = "us-letter"
 #let design-section-titles-font-size = 1.2em
@@ -465,7 +465,7 @@
 
 
 #one-col-entry(
-  content: [Estudiante de último año de Ingeniería Civil en la Universidad Nacional de Colombia, con más de 2 años de experiencia en investigación geotécnica centrada en la caracterización físico-mecánica de suelos y la modelación matemática. Como exbecario DAAD \(cohorte 24\/25\), realicé un año de intercambio en el Karlsruher Institut für Technologie \(KIT\), en Alemania. Cuento con dominio en software de diseño de infraestructura, sistemas de información geográfica \(SIG\) y lenguajes de programación. Me destaco por mi compromiso, responsabilidad y alta capacidad de adaptación, habilidades clave que he demostrado en la participación de proyectos de investigación y extensión nacionales e internacionales.]
+  content: [Ingeniero Civil de la Universidad Nacional de Colombia en espera de grado, con más de 2 años de experiencia en investigación geotécnica centrada en la caracterización físico-mecánica de suelos y la modelación matemática. Como exbecario DAAD \(cohorte 24\/25\), realicé un año de intercambio en el Karlsruher Institut für Technologie \(KIT\), en Alemania. Cuento con dominio en software de diseño de infraestructura, sistemas de información geográfica \(SIG\) y lenguajes de programación. Me destaco por mi compromiso, responsabilidad y alta capacidad de adaptación, habilidades clave que he demostrado en la participación de proyectos de investigación y extensión nacionales e internacionales.]
 )
 
 
@@ -499,7 +499,7 @@
     #strong[Universidad Nacional de Colombia], BSc en Ingeniería Civil -- Bogotá D.C., Colombia
   ],
   right-content: [
-    Mar 2020 – presente
+    Mar 2020 – Dic 2025
   ],
 )
 #block(
@@ -610,7 +610,22 @@
 
 #two-col-entry(
   left-content: [
-    #strong[Lexium Cobot - EcoStruxure Cobot Expert Konfiguration] 
+    #strong[Bootcamp de Consultoría] 
+  ],
+  right-content: [
+    Oct 2025
+  ],
+)
+#one-col-entry(
+  content: [
+    
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Lexium Cobot - Configuración del EcoStruxure Cobot Expert] 
   ],
   right-content: [
     May 2025

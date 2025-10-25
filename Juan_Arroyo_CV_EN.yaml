@@ -10,7 +10,7 @@ cv:
       username: juaarr
   sections:
     summary:
-      - Final-year Civil Engineering student at Universidad Nacional de Colombia, with over 2 years of experience in geotechnical research focused on physical-mechanical characterization of soils and mathematical modeling. As a former DAAD scholar (cohort 24/25), I completed a year-long exchange at Karlsruhe Institute of Technology (KIT) in Germany. I have proficiency in infrastructure design software, geographic information systems (GIS), and programming languages. I stand out for my commitment, responsibility, and high adaptability, key skills I have demonstrated in national and international research and extension projects.
+      - Civil Engineer from the Universidad Nacional de Colombia awaiting degree, with over 2 years of experience in geotechnical research focused on physical-mechanical characterization of soils and mathematical modeling. As a former DAAD scholar (cohort 24/25), I completed a year-long exchange at Karlsruhe Institute of Technology (KIT) in Germany. I have proficiency in infrastructure design software, geographic information systems (GIS), and programming languages. I stand out for my commitment, responsibility, and high adaptability, key skills I have demonstrated in national and international research and extension projects.
     education:
       - institution: Karlsruhe Institute of Technology
         area: Civil Engineering
@@ -23,7 +23,7 @@ cv:
         area: Civil Engineering
         degree: BSc
         start_date: 2020-03
-        end_date: present
+        end_date: 2025-12
         location: Bogotá D.C., Colombia
         summary: Focus on Geotechnics, Structures, and Modeling
         highlights:
@@ -71,6 +71,8 @@ cv:
       - label: Soft Skills
         details: Proactivity, Effective Communication, Adaptability, Teamwork, Organization, Problem-Solving
     certificates:
+      - name: Consulting Bootcamp
+        date: 2025-10
       - name: Lexium Cobot - EcoStruxure Cobot Expert Configuration
         date: 2025-05
       - name: II International Forum on Risk and Prevention, Vulnerability and Improvement
@@ -220,6 +222,6 @@ locale:
     - November
     - December
 rendercv_settings:
-  date: '2025-10-02'
+  date: '2025-10-25'
   render_command:
   bold_keywords: []

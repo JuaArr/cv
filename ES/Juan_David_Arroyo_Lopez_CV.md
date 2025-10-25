@@ -9,7 +9,7 @@
 
 # Resumen
 
-Estudiante de último año de Ingeniería Civil en la Universidad Nacional de Colombia, con más de 2 años de experiencia en investigación geotécnica centrada en la caracterización físico-mecánica de suelos y la modelación matemática. Como exbecario DAAD (cohorte 24/25), realicé un año de intercambio en el Karlsruher Institut für Technologie (KIT), en Alemania. Cuento con dominio en software de diseño de infraestructura, sistemas de información geográfica (SIG) y lenguajes de programación. Me destaco por mi compromiso, responsabilidad y alta capacidad de adaptación, habilidades clave que he demostrado en la participación de proyectos de investigación y extensión nacionales e internacionales.
+Ingeniero Civil de la Universidad Nacional de Colombia en espera de grado, con más de 2 años de experiencia en investigación geotécnica centrada en la caracterización físico-mecánica de suelos y la modelación matemática. Como exbecario DAAD (cohorte 24/25), realicé un año de intercambio en el Karlsruher Institut für Technologie (KIT), en Alemania. Cuento con dominio en software de diseño de infraestructura, sistemas de información geográfica (SIG) y lenguajes de programación. Me destaco por mi compromiso, responsabilidad y alta capacidad de adaptación, habilidades clave que he demostrado en la participación de proyectos de investigación y extensión nacionales e internacionales.
 
 # Educación
 
@@ -20,7 +20,7 @@ Estudiante de último año de Ingeniería Civil en la Universidad Nacional de Co
 
 ## Universidad Nacional de Colombia, BSc in Ingeniería Civil
 
-- Mar 2020 – presente
+- Mar 2020 – Dic 2025
 - Bogotá D.C., Colombia
 - Nota: 4.7/5.0
 
@@ -63,7 +63,11 @@ Estudiante de último año de Ingeniería Civil en la Universidad Nacional de Co
 - Habilidades blandas: Proactividad, Comunicación efectiva, Adpatabilidad, Trabajo en equipo, Organización, Resolución de problemas
 # Certificados
 
-## Lexium Cobot - EcoStruxure Cobot Expert Konfiguration
+## Bootcamp de Consultoría
+
+- Oct 2025
+
+## Lexium Cobot - Configuración del EcoStruxure Cobot Expert
 
 - May 2025
 

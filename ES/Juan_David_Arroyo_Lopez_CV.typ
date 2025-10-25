@@ -576,7 +576,7 @@
     #strong[Combined Study and Practice Stays for Engineers from Developing Countries \(KOSPIE\)] 
   ],
   right-content: [
-    Ago 2024 – Julio 2025
+    Ago 2024 – Jul 2025
   ],
 )
 #one-col-entry(
@@ -658,7 +658,7 @@
     #strong[IV Curso Internacional de Exploración, Caracterización y Mejoramiento del Suelo] 
   ],
   right-content: [
-    Junio 2023
+    Jun 2023
   ],
 )
 #one-col-entry(

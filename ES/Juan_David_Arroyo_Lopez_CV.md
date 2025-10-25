@@ -53,7 +53,7 @@ Ingeniero Civil de la Universidad Nacional de Colombia en espera de grado, con m
 
 ## Combined Study and Practice Stays for Engineers from Developing Countries (KOSPIE)
 
-- Ago 2024 – Julio 2025
+- Ago 2024 – Jul 2025
 - Selección a partir de convocatoria abierta en la Facultad de Ingeniería de la Sede Bogotá, a partir del promedio académico y el dominio de los idiomas inglés y alemán
 
 # Competencias
@@ -77,7 +77,7 @@ Ingeniero Civil de la Universidad Nacional de Colombia en espera de grado, con m
 
 ## IV Curso Internacional de Exploración, Caracterización y Mejoramiento del Suelo
 
-- Junio 2023
+- Jun 2023
 
 # Intereses Personales / Hobbys
 

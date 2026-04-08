@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
 cv:
   name: Juan David Arroyo Lopez
-  headline: BSc Civil Engineer
+  headline: BSc Bauingenieur
   location: Bogotá, D.C.
   email: ce.juanarroyo@gmail.com
   photo: 
@@ -14,87 +14,87 @@ cv:
       username: juaarr
   custom_connections:
   sections:
-    summary:
-      - Civil Engineer (Degree Expected April 21), Universidad Nacional de Colombia, with over 2 years of experience in geotechnical research specializing in physical-mechanical soil characterization and mathematical modeling. As a former DAAD scholar (2024/25 cohort), I completed a year-long international exchange at the Karlsruhe Institute of Technology (KIT) in Germany, developing advanced technical skills and high adaptability. I am proficient in infrastructure design software, Geographic Information Systems (GIS), and programming languages, with a proven track record of commitment and responsibility in both national and international research and extension projects.
-    education:
+    zusammenfassung:
+      - Bauingenieur (voraussichtlicher Abschluss am 21. April), Universidad Nacional de Colombia, mit über 2 Jahren Erfahrung in der geotechnischen Forschung, spezialisiert auf die physikalisch-mechanische Bodencharakterisierung und mathematische Modellierung. Als ehemaliger DAAD-Stipendiat (Jahrgang 2024/25) absolvierte ich einen einjährigen internationalen Austausch am Karlsruher Institut für Technologie (KIT) in Deutschland. Dabei entwickelte ich fortgeschrittene technische Fähigkeiten sowie eine hohe Anpassungsfähigkeit und absolvierte ein Praktikum am Institut für Bodenmechanik und Felsmechanik (IBF) im Bereich der automatisierten Probenherstellung mit einem Lexium Cobot. Ich verfüge über fundierte Kenntnisse in Infrastrukturplanungssoftware, Geoinformationssystemen, Programmiersprachen sowie praktische Erfahrung in der Robotik. Darüber hinaus spreche ich Spanisch, Englisch und Deutsch. Ich zeige eine nachgewiesene Erfolgsbilanz in Bezug auf Engagement und Verantwortungsbewusstsein in nationalen und internationalen Forschungs- und Erweiterungsprojekten.
+    studium:
       - institution: Universidad Nacional de Colombia
-        area: Civil Engineer
+        area: Bauingeniurwesen
         degree: BSc
         start_date: 2020-03
         end_date: 2026-04
-        location: Bogotá D.C., Colombia
-        summary: Focus on Geotechnics, Structures, and Modeling.
+        location: Bogotá D.C., Kolumbien
+        summary: Schwerpunkt auf Geotechnik, Strukturen und Modellierung.
         highlights:
           - 'GPA: 4.7/5.0'
       - institution: Karlsruhe Institute of Technology
-        area: Civil Engineer
-        degree: Exchange (without a degree)
+        area: Bauingeniurwesen
+        degree: Austausch (ohne Abschluss)
         start_date: 2024-10
         end_date: 2025-09
-        location: Karlsruhe, Germany
-        summary: Academic exchange with emphasis on Geotechnics, Geological Engineering, Hydrogeology, and data-driven modeling with Python
-    expereince:
+        location: Karlsruhe, Deutschland
+        summary: Akademischer Austausch mit Schwerpunkt auf Grundbau, Ingenieurgeologie, Hydrogeologie und datengetriebener Modellierung mit Python
+    berufserfahrung:
       - company: HINCCO SAS
-        position: Junior Site Engineer
+        position: Junior-Bauleiter
         start_date: 2026-01
         end_date: present
-        location: Gualmatán, Colombia
-        summary: Participation in a 500m urban road paving project in Gualmatán, Nariño (Colombia).
+        location: Gualmatán, Kolumbien
+        summary: Mitwirkung an einem 500 m langen städtischen Straßenbauprojekt in Gualmatán, Nariño (Kolumbien).
         highlights:
-          - Oversee day-to-day construction activities to ensure compliance with technical specifications
-          - Generate daily progress reports, site diaries, and comprehensive project documentation
-          - Coordinate with subcontractors and labor crews to maintain project schedules
-          - Track material deliveries, inventory, and resource allocation to optimize on-site logistics
-          - Interpret blueprints and designs for the construction team to ensure precise execution
+          - Überwachung der täglichen Bauaktivitäten zur Gewährleistung der Übereinstimmung mit den technischen Spezifikationen.
+          - Erstellung von täglichen Fortschrittsberichten, Bautagebüchern und umfassender Projektdokumentation.
+          - Koordination von Subunternehmern und Arbeitsteams zur Einhaltung der Zeitpläne.
+          - Überwachung von Materiallieferungen, Inventar und Ressourcenzuweisung zur Optimierung der Baustellenlogistik.
+          - Interpretation von Bauplänen und Entwürfen für das Bauteam zur Gewährleistung einer präzisen Ausführung.
       - company: Institut für Bodenmechanik und Felsmechanik (IBF)
-        position: Intern
+        position: Praktikant
         start_date: 2025-04
         end_date: 2025-08
-        location: Karlsruhe, Germany
-        summary: Research internship as part of the KOSPIE 24/25 scholarship
+        location: Karlsruhe, Deutschland
+        summary: Forschungspraktikum im Rahmen des KOSPIE-Stipendiums 24/25.
         highlights:
-          - Optimized laboratory workflows by integrating robotic automation in geotechnical testing
-          - Developed a Python-based tool to automate soil sample preparation using a Cobot (collaborative robot)
-          - Authored technical user manuals for students and laboratory technicians to standardize automated processes
-      - company: Soil Laboratory at Universidad Nacional de Colombia
-        position: Engineering Assistant
+          - Optimierung von Laborabläufen durch die Integration von Roboterautomatisierung in geotechnische Versuche.
+          - Entwicklung eines Python-basierten Tools zur Automatisierung der Bodenprobenaufbereitung unter Verwendung eines Schneider Lexium Cobots (kollaborativer Roboter).
+          - Erstellung technischer Benutzerhandbücher für Studierende und Labormitarbeiter zur Standardisierung automatisierter Prozesse.
+      - company: Bodenmechaniklabor der Universidad Nacional de Colombia
+        position: Wissenschaftliche Hilfskraft
         start_date: 2022-09
         end_date: 2024-08
-        location: Bogotá D.C., Colombia
+        location: Bogotá D.C., Kolumbien
         highlights:
-          - Collaborated in the preparation and structuring of research proposals for civil engineering, geotechnics, and pavement projects
-          - Conducted soil mechanics studies for the structural planning and design of 7 buildings
-          - Performed technical evaluations for the construction, reinforcement, and restoration of institutional infrastructure
-          - Researched geotechnical applications for biosolids incineration ash, focusing on sustainable construction materials
-          - Executed field and laboratory tests for advanced geotechnical and structural analysis
-    awards:
-      - name: Combined Study and Practice Stays for Engineers from Developing Countries (KOSPIE)
+          - Mitwirkung bei der Erstellung und Strukturierung von Forschungsvorschlägen in den Bereichen Bauingenieurwesen, Geotechnik und Straßenbau.
+          - Durchführung bodenmechanischer Untersuchungen für die Tragwerksplanung und den Entwurf von 7 Gebäuden.
+          -  Erstellung technischer Gutachten für den Bau, die Verstärkung und die Sanierung öffentlicher Infrastruktur.
+          - Erforschung geotechnischer Anwendungen für Klärschlammasche mit Fokus auf nachhaltige Baustoffe.
+          - Durchführung von Feld- und Laborversuchen für fortgeschrittene geotechnische und strukturelle Analysen.
+    auszeichnungen:
+      - name: Kombinierte Studien- und Praxisaufenthalte für Ingenieure aus Entwicklungsländern (KOSPIE)
         start_date: 2024-08
         end_date: 2025-07
-        summary: DAAD scholarship for academic exchange and internship in Germany
+        summary: DAAD-Stipendium für einen akademischen Austausch und ein Praktikum in Deutschland.
         highlights: 
-          - Selected through open call at the Faculty of Engineering in Bogotá, based on academic performance and proficiency in English and German
-    skills:
-      - label: Languages
-        details: 'Spanish (native), English (fluent, IELTS Academic: B2), German (fluent, TestDaF: B2)'
+          - Ausgewählt im Rahmen einer offenen Ausschreibung an der Ingenieurwissenschaftlichen Fakultät in Bogotá, basierend auf akademischen Leistungen sowie Kenntnissen in Englisch und Deutsch.
+    sonstige_kentnisse:
+      - label: Sprachen
+        details: 'Deutsch (verhandlungssicher, TestDaF: B2), Englisch (verhandlungssicher, IELTS Academic: B2), Spanisch (Muttersprache).'
       - label: Software
-        details: MS-Office, Python, Slide, MIDAS GTS-X, QGIS,  AutoCAD, Civil 3D, SAP2000, ETABS, HECRAS, EPANET, SWMM
+        details: Python, C++, MS-Office, Latex, Typst, FEniCSx, Slide, MIDAS GTS-X, QGIS, AutoCAD.
       - label: Soft Skills
-        details: Proactivity, Effective Communication, Adaptability, Teamwork, Organization, Problem-Solving
-    certificates:
-      - name: Consulting Bootcamp
+        details: Eigeninitiative, Effektive Kommunikation, Anpassungsfähigkeit, Teamfähigkeit, Organisationstalent, Problemlösungskompetenz.
+    zertifikate:
+      - name: Bootcamp de Consultoría (Intensivtraining für Unternehmensberatung)
         date: 2025-10
       - name: Lexium Cobot - EcoStruxure Cobot Expert Configuration
         date: 2025-05
-      - name: II International Forum on Risk and Prevention, Vulnerability and Improvement
+      - name: II Foro Internacional de Riesgo y Prevención, Vulnerabilidad y Mejoramiento (II. Internationales Forum für Risiko, Prävention, Vulnerabilität und Verbesserung)
         date: 2023-09
-      - name: IV International Course on Soil Exploration, Characterization and Improvement
+      - name: IV Curso Internacional de Exploración, Caracterización y Mejoramiento del Suelo (IV. Internationaler Kurs für Bodenerkundung, Charakterisierung und Verbesserung)
         date: 2023-06
-    personal_interests_and_hobbies:
-      - label: Interests
-        details: Science, technology, programming, languages, travel, cultures
-      - label: Hobbies
-        details: Cooking, hiking, listening to music
+    persönliche_interessen_und_hobbys:
+      - label: Interessen
+        details: Wissenschaft, Technologie, Programmierung, Sprachen, Reisen, fremde Kulturen.
+      - label: Hobbys
+        details: Kochen, Wandern, Musik hören.
 design:
   theme: engineeringresumes
   # page:
@@ -221,7 +221,7 @@ design:
   #       URL (JOURNAL)
   #     date_and_location_column: DATE
 locale:
-  language: english
+  language: german
   # last_updated: Last updated in
   # month: month
   # months: months
@@ -259,7 +259,7 @@ locale:
 settings:
   current_date: today
   render_command:
-    output_folder: EN
+    output_folder: DE
     design:
     locale:
     typst_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.typ

@@ -32,48 +32,48 @@ cv:
         start_date: 2024-10
         end_date: 2025-09
         location: Karlsruhe, Germany
-        summary: Academic exchange with emphasis on Geotechnics, Geological Engineering, Hydrogeology, and data-driven modeling with Python
-    expereince:
+        summary: Academic exchange with emphasis on Geotechnics, Geological Engineering, Hydrogeology, and data-driven modeling with Python.
+    experience:
       - company: HINCCO SAS
-        position: Junior Site Engineer
+        position: Engineering Assistant
         start_date: 2026-01
         end_date: present
         location: Gualmatán, Colombia
         summary: Participation in a 500m urban road paving project in Gualmatán, Nariño (Colombia).
         highlights:
-          - Oversee day-to-day construction activities to ensure compliance with technical specifications
-          - Generate daily progress reports, site diaries, and comprehensive project documentation
-          - Coordinate with subcontractors and labor crews to maintain project schedules
-          - Track material deliveries, inventory, and resource allocation to optimize on-site logistics
-          - Interpret blueprints and designs for the construction team to ensure precise execution
+          - Oversee day-to-day construction activities to ensure compliance with technical specifications.
+          - Generate daily site diaries, and project documentation.
+          - Coordinate with subcontractors and labor crews to maintain project schedules.
+          - Track material deliveries, inventory, and resource allocation.
+          - Interpret blueprints and designs for the construction team to ensure precise execution.
       - company: Institut für Bodenmechanik und Felsmechanik (IBF)
         position: Intern
         start_date: 2025-04
         end_date: 2025-08
         location: Karlsruhe, Germany
-        summary: Research internship as part of the KOSPIE 24/25 scholarship
+        summary: Research internship as part of the KOSPIE 24/25 scholarship.
         highlights:
-          - Optimized laboratory workflows by integrating robotic automation in geotechnical testing
-          - Developed a Python-based tool to automate soil sample preparation using a Cobot (collaborative robot)
-          - Authored technical user manuals for students and laboratory technicians to standardize automated processes
+          - Optimized laboratory workflows by integrating robotic automation in geotechnical testing.
+          - Developed a Python-based tool to automate soil sample preparation using a Cobot (collaborative robot).
+          - Authored technical user manuals for students and laboratory technicians to standardize automated processes.
       - company: Soil Laboratory at Universidad Nacional de Colombia
         position: Engineering Assistant
         start_date: 2022-09
         end_date: 2024-08
         location: Bogotá D.C., Colombia
         highlights:
-          - Collaborated in the preparation and structuring of research proposals for civil engineering, geotechnics, and pavement projects
-          - Conducted soil mechanics studies for the structural planning and design of 7 buildings
-          - Performed technical evaluations for the construction, reinforcement, and restoration of institutional infrastructure
-          - Researched geotechnical applications for biosolids incineration ash, focusing on sustainable construction materials
-          - Executed field and laboratory tests for advanced geotechnical and structural analysis
+          - Collaborated in the preparation and structuring of research proposals for civil engineering, geotechnics, and pavement projects.
+          - Conducted soil mechanics studies for the structural planning and design of 7 buildings.
+          - Performed technical evaluations for the construction, reinforcement, and restoration of institutional infrastructure.
+          - Researched geotechnical applications for biosolids incineration ash, focusing on sustainable construction materials.
+          - Executed field and laboratory tests for advanced geotechnical and structural analysis.
     awards:
       - name: Combined Study and Practice Stays for Engineers from Developing Countries (KOSPIE)
         start_date: 2024-08
         end_date: 2025-07
-        summary: DAAD scholarship for academic exchange and internship in Germany
+        summary: DAAD scholarship for academic exchange and internship in Germany.
         highlights: 
-          - Selected through open call at the Faculty of Engineering in Bogotá, based on academic performance and proficiency in English and German
+          - Selected through open call at the Faculty of Engineering in Bogotá, based on academic performance and proficiency in English and German.
     skills:
       - label: Languages
         details: 'Spanish (native), English (fluent, IELTS Academic: B2), German (fluent, TestDaF: B2)'

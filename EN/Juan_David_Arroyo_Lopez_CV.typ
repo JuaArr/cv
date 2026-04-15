@@ -6,7 +6,7 @@
   name: "Juan David Arroyo Lopez",
   title: "Juan David Arroyo Lopez - CV",
   footer: context { [#emph[Juan David Arroyo Lopez -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in Mar 2026] ],
+  top-note: [ #emph[Last updated in Apr 2026] ],
   locale-catalog-language: "en",
   text-direction: ltr,
   page-size: "us-letter",
@@ -80,8 +80,8 @@
   entries-highlights-space-between-bullet-and-text: 0.3em,
   date: datetime(
     year: 2026,
-    month: 3,
-    day: 27,
+    month: 4,
+    day: 15,
   ),
 )
 
@@ -132,16 +132,16 @@ Civil Engineer (Degree Expected April 21), Universidad Nacional de Colombia, wit
 
   ],
   main-column-second-row: [
-    #summary[Academic exchange with emphasis on Geotechnics, Geological Engineering, Hydrogeology, and data-driven modeling with Python]
+    #summary[Academic exchange with emphasis on Geotechnics, Geological Engineering, Hydrogeology, and data-driven modeling with Python.]
 
   ],
 )
 
-== Expereince
+== Experience
 
 #regular-entry(
   [
-    #strong[Junior Site Engineer], HINCCO SAS -- Gualmatán, Colombia
+    #strong[Engineering Assistant], HINCCO SAS -- Gualmatán, Colombia
 
   ],
   [
@@ -151,15 +151,15 @@ Civil Engineer (Degree Expected April 21), Universidad Nacional de Colombia, wit
   main-column-second-row: [
     #summary[Participation in a 500m urban road paving project in Gualmatán, Nariño (Colombia).]
 
-    - Oversee day-to-day construction activities to ensure compliance with technical specifications
+    - Oversee day-to-day construction activities to ensure compliance with technical specifications.
 
-    - Generate daily progress reports, site diaries, and comprehensive project documentation
+    - Generate daily site diaries, and project documentation.
 
-    - Coordinate with subcontractors and labor crews to maintain project schedules
+    - Coordinate with subcontractors and labor crews to maintain project schedules.
 
-    - Track material deliveries, inventory, and resource allocation to optimize on-site logistics
+    - Track material deliveries, inventory, and resource allocation.
 
-    - Interpret blueprints and designs for the construction team to ensure precise execution
+    - Interpret blueprints and designs for the construction team to ensure precise execution.
 
   ],
 )
@@ -174,13 +174,13 @@ Civil Engineer (Degree Expected April 21), Universidad Nacional de Colombia, wit
 
   ],
   main-column-second-row: [
-    #summary[Research internship as part of the KOSPIE 24\/25 scholarship]
+    #summary[Research internship as part of the KOSPIE 24\/25 scholarship.]
 
-    - Optimized laboratory workflows by integrating robotic automation in geotechnical testing
+    - Optimized laboratory workflows by integrating robotic automation in geotechnical testing.
 
-    - Developed a Python-based tool to automate soil sample preparation using a Cobot (collaborative robot)
+    - Developed a Python-based tool to automate soil sample preparation using a Cobot (collaborative robot).
 
-    - Authored technical user manuals for students and laboratory technicians to standardize automated processes
+    - Authored technical user manuals for students and laboratory technicians to standardize automated processes.
 
   ],
 )
@@ -195,15 +195,15 @@ Civil Engineer (Degree Expected April 21), Universidad Nacional de Colombia, wit
 
   ],
   main-column-second-row: [
-    - Collaborated in the preparation and structuring of research proposals for civil engineering, geotechnics, and pavement projects
+    - Collaborated in the preparation and structuring of research proposals for civil engineering, geotechnics, and pavement projects.
 
-    - Conducted soil mechanics studies for the structural planning and design of 7 buildings
+    - Conducted soil mechanics studies for the structural planning and design of 7 buildings.
 
-    - Performed technical evaluations for the construction, reinforcement, and restoration of institutional infrastructure
+    - Performed technical evaluations for the construction, reinforcement, and restoration of institutional infrastructure.
 
-    - Researched geotechnical applications for biosolids incineration ash, focusing on sustainable construction materials
+    - Researched geotechnical applications for biosolids incineration ash, focusing on sustainable construction materials.
 
-    - Executed field and laboratory tests for advanced geotechnical and structural analysis
+    - Executed field and laboratory tests for advanced geotechnical and structural analysis.
 
   ],
 )
@@ -220,9 +220,9 @@ Civil Engineer (Degree Expected April 21), Universidad Nacional de Colombia, wit
 
   ],
   main-column-second-row: [
-    #summary[DAAD scholarship for academic exchange and internship in Germany]
+    #summary[DAAD scholarship for academic exchange and internship in Germany.]
 
-    - Selected through open call at the Faculty of Engineering in Bogotá, based on academic performance and proficiency in English and German
+    - Selected through open call at the Faculty of Engineering in Bogotá, based on academic performance and proficiency in English and German.
 
   ],
 )

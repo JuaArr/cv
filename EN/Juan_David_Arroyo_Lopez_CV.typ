@@ -6,7 +6,7 @@
   name: "Juan David Arroyo Lopez",
   title: "Juan David Arroyo Lopez - CV",
   footer: context { [#emph[Juan David Arroyo Lopez -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in Apr 2026] ],
+  top-note: [ #emph[Last updated in Oct 2026] ],
   locale-catalog-language: "en",
   text-direction: ltr,
   page-size: "us-letter",
@@ -80,15 +80,15 @@
   entries-highlights-space-between-bullet-and-text: 0.3em,
   date: datetime(
     year: 2026,
-    month: 4,
-    day: 15,
+    month: 10,
+    day: 29,
   ),
 )
 
 
 = Juan David Arroyo Lopez
 
-  #headline([BSc Civil Engineer])
+  #headline([Civil Engineer | Geotechnics & Tunnelling])
 
 #connections(
   [Bogotá, D.C.],
@@ -101,13 +101,13 @@
 
 == Summary
 
-Civil Engineer (Degree Expected April 21), Universidad Nacional de Colombia, with over 2 years of experience in geotechnical research specializing in physical-mechanical soil characterization and mathematical modeling. As a former DAAD scholar (2024\/25 cohort), I completed a year-long international exchange at the Karlsruhe Institute of Technology (KIT) in Germany, developing advanced technical skills and high adaptability. I am proficient in infrastructure design software, Geographic Information Systems (GIS), and programming languages, with a proven track record of commitment and responsibility in both national and international research and extension projects.
+Civil Engineer (Honors) from Universidad Nacional de Colombia with 2+ years of experience in geotechnical research specializing in both physical-mechanical soil characterization and mathematical modeling, and over 6 months of experience in tunnel design and consultancy. As a DAAD alumni, I completed a year-long international exchange at the Karlsruhe Institute of Technology (KIT) in Germany, developing advanced technical skills and high adaptability. I am proficient in geotechnical and structural design software, Geographic Information Systems (GIS), and programming languages, with a proven track record of commitment and responsibility in international research and high-impact engineering projects.
 
 == Education
 
 #education-entry(
   [
-    #strong[Universidad Nacional de Colombia], BSc in Civil Engineer -- Bogotá D.C., Colombia
+    #strong[Universidad Nacional de Colombia], BSc in Civil Engineering -- Bogotá D.C., Colombia
 
   ],
   [
@@ -117,14 +117,16 @@ Civil Engineer (Degree Expected April 21), Universidad Nacional de Colombia, wit
   main-column-second-row: [
     #summary[Focus on Geotechnics, Structures, and Modeling.]
 
-    - GPA: 4.7\/5.0
+    - Graduated with Honors.
+
+    - GPA: 4.7\/5.0 (Colombian scale, 0-5; minimum passing grade 3.0).
 
   ],
 )
 
 #education-entry(
   [
-    #strong[Karlsruhe Institute of Technology], Exchange (without a degree) in Civil Engineer -- Karlsruhe, Germany
+    #strong[Karlsruhe Institute of Technology], Exchange (without a degree) in Civil Engineering -- Karlsruhe, Germany
 
   ],
   [
@@ -141,25 +143,48 @@ Civil Engineer (Degree Expected April 21), Universidad Nacional de Colombia, wit
 
 #regular-entry(
   [
+    #strong[Civil Engineer I], AECOM -- Bogotá D.C., Colombia
+
+  ],
+  [
+    Apr 2026 – present
+
+  ],
+  main-column-second-row: [
+    #summary[Tunnelling and Trenchless]
+
+    - Supported the design and technical review of cavern components for the Ontario Line South (OLS) and the Ontario Pumped Storage (OPS) projects.
+
+    - Performed geotechnical analyses, ground-behaviour assessments, and damage assessments for buildings and utilities using PLAXIS 2D\/3D, RS2, RS3, and Python.
+
+    - Prepared technical reports, drawings, and calculation notes for client and internal review, in line with AASHTO, ACI, CSA, and FHWA standards.
+
+    - Developed Python tools that automated calculation and data processing, reducing processing time by 80\%.
+
+  ],
+)
+
+#regular-entry(
+  [
     #strong[Engineering Assistant], HINCCO SAS -- Gualmatán, Colombia
 
   ],
   [
-    Jan 2026 – present
+    Jan 2026 – Apr 2026
 
   ],
   main-column-second-row: [
     #summary[Participation in a 500m urban road paving project in Gualmatán, Nariño (Colombia).]
 
-    - Oversee day-to-day construction activities to ensure compliance with technical specifications.
+    - Supervised day-to-day construction activities to ensure compliance with technical specifications.
 
-    - Generate daily site diaries, and project documentation.
+    - Produced daily site diaries and project documentation.
 
-    - Coordinate with subcontractors and labor crews to maintain project schedules.
+    - Coordinated subcontractors and labor crews to keep the project on schedule.
 
-    - Track material deliveries, inventory, and resource allocation.
+    - Tracked material deliveries, inventory, and resource allocation.
 
-    - Interpret blueprints and designs for the construction team to ensure precise execution.
+    - Interpreted blueprints and designs for the construction team to ensure precise execution.
 
   ],
 )
@@ -197,13 +222,49 @@ Civil Engineer (Degree Expected April 21), Universidad Nacional de Colombia, wit
   main-column-second-row: [
     - Collaborated in the preparation and structuring of research proposals for civil engineering, geotechnics, and pavement projects.
 
-    - Conducted soil mechanics studies for the structural planning and design of 7 buildings.
+    - Conducted Geotechnical Design Reports for 7 government buildings.
 
     - Performed technical evaluations for the construction, reinforcement, and restoration of institutional infrastructure.
 
     - Researched geotechnical applications for biosolids incineration ash, focusing on sustainable construction materials.
 
     - Executed field and laboratory tests for advanced geotechnical and structural analysis.
+
+  ],
+)
+
+== Publications
+
+#regular-entry(
+  [
+    #strong[Robotic automated specimen preparation (RASP) technique for soil mechanics]
+
+  ],
+  [
+    June 2026
+
+  ],
+  main-column-second-row: [
+    Hans Henning Stutz, Luis Mugele, Jochen Zürn, #emph[Juan David Arroyo Lopez]
+
+    #link("https://doi.org/10.53243/ICSMGE2026-268")[10.53243\/ICSMGE2026-268] (Proceedings of the 21st International Conference on Soil Mechanics and Geotechnical Engineering (ICSMGE), Vienna, Austria)
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Robotic automated specimen preparation (RASP): applied to air pluviation]
+
+  ],
+  [
+    June 2026
+
+  ],
+  main-column-second-row: [
+    Luis Mugele, #emph[Juan David Arroyo Lopez], Jochen Zürn, Hans Henning Stutz
+
+    #link("https://doi.org/10.1007/s11440-026-03112-4")[10.1007\/s11440-026-03112-4] (Acta Geotechnica)
 
   ],
 )
@@ -229,13 +290,39 @@ Civil Engineer (Degree Expected April 21), Universidad Nacional de Colombia, wit
 
 == Skills
 
-#strong[Languages:] Spanish (native), English (fluent, IELTS Academic: B2), German (fluent, TestDaF: B2)
+#strong[Languages:] Spanish (native), English (IELTS Academic 7.5, C1), German (B2, TestDaF).
 
-#strong[Software:] MS-Office, Python, Slide, MIDAS GTS-X, QGIS,  AutoCAD, Civil 3D, SAP2000, ETABS, HECRAS, EPANET, SWMM
+#strong[Software:] Python, PLAXIS2D, PLAXIS3D, RS2, RS3, Slide2, QGIS,  AutoCAD, Civil 3D, SAP2000.
 
-#strong[Soft Skills:] Proactivity, Effective Communication, Adaptability, Teamwork, Organization, Problem-Solving
+#strong[Soft Skills:] Proactivity, Effective Communication, Adaptability, Teamwork, Organization, Problem-Solving.
 
 == Certificates
+
+#regular-entry(
+  [
+    #strong[PLAXIS 3D: Getting Started]
+
+  ],
+  [
+    Oct 2025
+
+  ],
+  main-column-second-row: [
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Course 3: Numerical Hydrogeological Modeling Applied to Geothermal Energy]
+
+  ],
+  [
+    Sept 2026
+
+  ],
+  main-column-second-row: [
+  ],
+)
 
 #regular-entry(
   [
@@ -257,32 +344,6 @@ Civil Engineer (Degree Expected April 21), Universidad Nacional de Colombia, wit
   ],
   [
     May 2025
-
-  ],
-  main-column-second-row: [
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[II International Forum on Risk and Prevention, Vulnerability and Improvement]
-
-  ],
-  [
-    Sept 2023
-
-  ],
-  main-column-second-row: [
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[IV International Course on Soil Exploration, Characterization and Improvement]
-
-  ],
-  [
-    June 2023
 
   ],
   main-column-second-row: [

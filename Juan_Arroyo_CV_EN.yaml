@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
 cv:
   name: Juan David Arroyo Lopez
-  headline: BSc Civil Engineer
+  headline: Civil Engineer | Geotechnics & Tunnelling
   location: Bogotá, D.C.
   email: ce.juanarroyo@gmail.com
   photo: 
@@ -15,37 +15,49 @@ cv:
   custom_connections:
   sections:
     summary:
-      - Civil Engineer (Degree Expected April 21), Universidad Nacional de Colombia, with over 2 years of experience in geotechnical research specializing in physical-mechanical soil characterization and mathematical modeling. As a former DAAD scholar (2024/25 cohort), I completed a year-long international exchange at the Karlsruhe Institute of Technology (KIT) in Germany, developing advanced technical skills and high adaptability. I am proficient in infrastructure design software, Geographic Information Systems (GIS), and programming languages, with a proven track record of commitment and responsibility in both national and international research and extension projects.
+      - Civil Engineer (Honors) from Universidad Nacional de Colombia with 2+ years of experience in geotechnical research specializing in both physical-mechanical soil characterization and mathematical modeling, and over 6 months of experience in tunnel design and consultancy. As a DAAD alumni, I completed a year-long international exchange at the Karlsruhe Institute of Technology (KIT) in Germany, developing advanced technical skills and high adaptability. I am proficient in geotechnical and structural design software, Geographic Information Systems (GIS), and programming languages, with a proven track record of commitment and responsibility in international research and high-impact engineering projects.
     education:
       - institution: Universidad Nacional de Colombia
-        area: Civil Engineer
+        area: Civil Engineering
         degree: BSc
         start_date: 2020-03
         end_date: 2026-04
         location: Bogotá D.C., Colombia
         summary: Focus on Geotechnics, Structures, and Modeling.
         highlights:
-          - 'GPA: 4.7/5.0'
+           - Graduated with Honors.
+           - 'GPA: 4.7/5.0 (Colombian scale, 0-5; minimum passing grade 3.0).'
       - institution: Karlsruhe Institute of Technology
-        area: Civil Engineer
+        area: Civil Engineering
         degree: Exchange (without a degree)
         start_date: 2024-10
         end_date: 2025-09
         location: Karlsruhe, Germany
         summary: Academic exchange with emphasis on Geotechnics, Geological Engineering, Hydrogeology, and data-driven modeling with Python.
     experience:
+      - company: AECOM
+        position: Civil Engineer I
+        start_date: 2026-04
+        end_date: present
+        location: Bogotá D.C., Colombia
+        summary: Tunnelling and Trenchless
+        highlights:
+          - Supported the design and technical review of cavern components for the Ontario Line South (OLS) and the Ontario Pumped Storage (OPS) projects.
+          - Performed geotechnical analyses, ground-behaviour assessments, and damage assessments for buildings and utilities using PLAXIS 2D/3D, RS2, RS3, and Python.
+          - Prepared technical reports, drawings, and calculation notes for client and internal review, in line with AASHTO, ACI, CSA, and FHWA standards.
+          - Developed Python tools that automated calculation and data processing, reducing processing time by 80%.
       - company: HINCCO SAS
         position: Engineering Assistant
         start_date: 2026-01
-        end_date: present
+        end_date: 2026-04
         location: Gualmatán, Colombia
         summary: Participation in a 500m urban road paving project in Gualmatán, Nariño (Colombia).
         highlights:
-          - Oversee day-to-day construction activities to ensure compliance with technical specifications.
-          - Generate daily site diaries, and project documentation.
-          - Coordinate with subcontractors and labor crews to maintain project schedules.
-          - Track material deliveries, inventory, and resource allocation.
-          - Interpret blueprints and designs for the construction team to ensure precise execution.
+          - Supervised day-to-day construction activities to ensure compliance with technical specifications.
+          - Produced daily site diaries and project documentation.
+          - Coordinated subcontractors and labor crews to keep the project on schedule.
+          - Tracked material deliveries, inventory, and resource allocation.
+          - Interpreted blueprints and designs for the construction team to ensure precise execution.
       - company: Institut für Bodenmechanik und Felsmechanik (IBF)
         position: Intern
         start_date: 2025-04
@@ -63,10 +75,33 @@ cv:
         location: Bogotá D.C., Colombia
         highlights:
           - Collaborated in the preparation and structuring of research proposals for civil engineering, geotechnics, and pavement projects.
-          - Conducted soil mechanics studies for the structural planning and design of 7 buildings.
+          - Conducted Geotechnical Design Reports for 7 government buildings.
           - Performed technical evaluations for the construction, reinforcement, and restoration of institutional infrastructure.
           - Researched geotechnical applications for biosolids incineration ash, focusing on sustainable construction materials.
           - Executed field and laboratory tests for advanced geotechnical and structural analysis.
+    publications:
+      - title: 'Robotic automated specimen preparation (RASP) technique for soil mechanics'
+        authors:
+          - Hans Henning Stutz
+          - Luis Mugele
+          - Jochen Zürn
+          - '*Juan David Arroyo Lopez*'
+        summary:
+        doi: 10.53243/ICSMGE2026-268
+        url:
+        journal: 'Proceedings of the 21st International Conference on Soil Mechanics and Geotechnical Engineering (ICSMGE), Vienna, Austria'
+        date: 2026-06
+      - title: 'Robotic automated specimen preparation (RASP): applied to air pluviation'
+        authors:
+          - Luis Mugele
+          - '*Juan David Arroyo Lopez*'
+          - Jochen Zürn
+          - Hans Henning Stutz
+        summary:
+        doi: 10.1007/s11440-026-03112-4
+        url:
+        journal: Acta Geotechnica
+        date: 2026-06
     awards:
       - name: Combined Study and Practice Stays for Engineers from Developing Countries (KOSPIE)
         start_date: 2024-08
@@ -76,20 +111,20 @@ cv:
           - Selected through open call at the Faculty of Engineering in Bogotá, based on academic performance and proficiency in English and German.
     skills:
       - label: Languages
-        details: 'Spanish (native), English (fluent, IELTS Academic: B2), German (fluent, TestDaF: B2)'
+        details: 'Spanish (native), English (IELTS Academic 7.5, C1), German (B2, TestDaF).'
       - label: Software
-        details: MS-Office, Python, Slide, MIDAS GTS-X, QGIS,  AutoCAD, Civil 3D, SAP2000, ETABS, HECRAS, EPANET, SWMM
+        details: Python, PLAXIS2D, PLAXIS3D, RS2, RS3, Slide2, QGIS,  AutoCAD, Civil 3D, SAP2000.
       - label: Soft Skills
-        details: Proactivity, Effective Communication, Adaptability, Teamwork, Organization, Problem-Solving
+        details: Proactivity, Effective Communication, Adaptability, Teamwork, Organization, Problem-Solving.
     certificates:
+      - name: 'PLAXIS 3D: Getting Started'
+        date: 2025-10
+      - name: 'Course 3: Numerical Hydrogeological Modeling Applied to Geothermal Energy'
+        date: 2026-09
       - name: Consulting Bootcamp
         date: 2025-10
       - name: Lexium Cobot - EcoStruxure Cobot Expert Configuration
         date: 2025-05
-      - name: II International Forum on Risk and Prevention, Vulnerability and Improvement
-        date: 2023-09
-      - name: IV International Course on Soil Exploration, Characterization and Improvement
-        date: 2023-06
     personal_interests_and_hobbies:
       - label: Interests
         details: Science, technology, programming, languages, travel, cultures
